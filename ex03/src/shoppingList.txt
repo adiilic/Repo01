@@ -1,7 +1,6 @@
 Shopping list:
--Apples;
--Oranges;
--Bananas;
--Cheries;
--Carrots;
--Strawberries;
+- Apples;
+- Oranges;
+- Bananas;
+- Cherries;
+- Carrots;
